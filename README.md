@@ -1,2 +1,2 @@
-# WHMCS
-Payment Gateway integration for WHMCS
+# WHMCS for SIAMPAY
+SIAMPAY - Payment Gateway integration for WHMCS
