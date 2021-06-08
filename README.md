@@ -29,6 +29,8 @@ Sign up at [SiamPay](https://SiamPay.com), and they'll send you the API details 
 
 ---
 
-Developed by and for [Hua Hin Webdesign](https://huahinstudios.com) and [Thailand Webhosting](https://deedeehost.com)
-
-MIT License
+FINAL NOTES:
+- This piece of code operates under a MIT License and is therefore open source and free to use
+- This WHMCS Payment Integration Module is developed by and for [Hua Hin Webdesign](https://huahinstudios.com) and [Webhosting Thailand](https://deedeehost.com)
+- [WHMCS](https://whmcs.com) is a Web Hosting Automation Platform by WHMCS Limited, United Kingdom
+- [SiamPay](https://siampay.com) is a Payment System Provider by AsiaPay Limited, Hong Kong
