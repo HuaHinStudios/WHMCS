@@ -30,4 +30,5 @@ Sign up at [SiamPay](https://SiamPay.com), and they'll send you the API details 
 ---
 
 Developed by and for [Hua Hin Webdesign](https://huahinstudios.com) and [Thailand Webhosting](https://deedeehost.com)
+
 MIT License
