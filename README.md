@@ -13,6 +13,8 @@
 - Completely FREE
 - Easy Setup, see below:
 
+---
+
 Sign up at [SiamPay](https://SiamPay.com), and they'll send you the API details that you need
 
 1. Fill in your Merchant ID
@@ -21,6 +23,11 @@ Sign up at [SiamPay](https://SiamPay.com), and they'll send you the API details 
 4. Fill in your Merchant Password
 5. SAVE CHANGES
 
+---
+
 ![Example of settings inside WHMCS](https://github.com/hua-hin-studios/WHMCS-SIAMPAY/blob/main/examples-settings.png)
 
+---
+
 Developed by and for [Hua Hin Webdesign](https://huahinstudios.com) and [Thailand Webhosting](https://deedeehost.com)
+MIT License
